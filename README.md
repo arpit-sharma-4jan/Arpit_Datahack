@@ -38,7 +38,7 @@ After training on the provided data, predictions were made on the test set and f
 
 ### Files Included
 
-* **Code Files**: Python scripts (predict_flu_vaccination.py and Jupyter Notebook predict_flu_vaccination.ipynb) encompassing the entire workflow from data preprocessing to model evaluation.
+* **Code Files**: Python scripts (vaccine_prediction.py and Jupyter Notebook vaccine_prediction.ipynb) encompassing the entire workflow from data preprocessing to model evaluation.
 * **Datasets**: The Dataset folder contains the original CSV files provided for training and testing.
 
 I hope you find this repository insightful! For any questions or feedback, please reach out :>
